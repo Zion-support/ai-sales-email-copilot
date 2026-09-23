@@ -1,25 +1,19 @@
 # AI Sales Email Copilot
 
-> Draft, personalize and A/B-test outbound sales emails with AI
+AI that drafts, personalizes and A/B-tests outbound sales emails. Part of the **Zion Tech Group AI App Network**.
 
-Draft, personalize and A/B-test outbound sales emails with AI.
-
-**Live:** https://ziontechgroup.com/ai-sales-email-copilot/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+🌐 **Live app:** https://ziontechgroup.com/ai-sales-email-copilot/
 
 ## Features
-- AI-drafted personalized sequences per prospect and segment
-- A/B testing with reply-rate analytics
-- CRM sync and deliverability safeguards
-- Tone, length and CTA optimization suggestions
+- Personalized outbound email drafting at scale
+- A/B testing of subject lines and CTAs
+- CRM integration and sequence tracking
+- Tone and deliverability optimization
 
-## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [Compliance Policy Writer](https://github.com/Zion-support/compliance-policy-writer) — https://ziontechgroup.com/compliance-policy-writer/
-- [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) — https://ziontechgroup.com/vendor-risk-scorecard/
-- [Uptime Status Hub](https://github.com/Zion-support/uptime-status-hub) — https://ziontechgroup.com/uptime-status-hub/
-- [SEO Content Optimizer](https://github.com/Zion-support/seo-content-optimizer) — https://ziontechgroup.com/seo-content-optimizer/
-- [Knowledge Base Copilot](https://github.com/Zion-support/knowledge-base-copilot) — https://ziontechgroup.com/knowledge-base-copilot/
+## 🔗 Zion App Network
+- 🏠 [Zion Tech Group](https://ziontechgroup.com/) · [App Network Hub](https://github.com/Zion-support/zion-app-network)
+- Related apps: [Zion AI Sales Intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence) · [Zion AI Sales Call Analyst](https://github.com/Zion-support/zion-ai-sales-call-analyst) · [AI Growth Marketing Hub](https://github.com/Zion-support/ai-growth-marketing-hub)
+- 💼 [Plans & Pricing](https://ziontechgroup.com/plans/) · [Free AI Discovery](https://ziontechgroup.com/discovery/)
 
 ---
-© 2026 Zion Tech Group — https://ziontechgroup.com
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
