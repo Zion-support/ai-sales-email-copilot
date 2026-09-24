@@ -1,19 +1,16 @@
 # AI Sales Email Copilot
 
-AI that drafts, personalizes and A/B-tests outbound sales emails. Part of the Zion Tech Group App Network.
+AI that drafts, personalizes and A/B-tests outbound sales emails.
 
-- 🌐 Live app: https://ziontechgroup.com/ai-sales-email-copilot/
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
-- 🧰 All tools: https://ziontechgroup.com/tools/
+**Live app:** https://ziontechgroup.com/ai-sales-email-copilot/
 
----
-🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · 💼 Plans: https://ziontechgroup.com/en/plans/ · 📞 Discovery call: https://ziontechgroup.com/discovery/ · 🧰 All tools: https://ziontechgroup.com/tools/
+## Features
+- Personalized cold-email drafts from prospect context
+- Subject line A/B testing
+- Follow-up sequence generation
 
-**Related apps:**
-- [ai-email-classifier](https://github.com/Zion-support/ai-email-classifier) — https://ziontechgroup.com/ai-email-classifier/
-- [knowledge-base-copilot](https://github.com/Zion-support/knowledge-base-copilot) — https://ziontechgroup.com/knowledge-base-copilot/
-- [zion-ai-email-marketing-pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) — https://ziontechgroup.com/zion-ai-email-marketing-pro/
-- [zion-ai-interview-copilot](https://github.com/Zion-support/zion-ai-interview-copilot) — https://ziontechgroup.com/zion-ai-interview-copilot/
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related apps: [Sales Call Analyst](https://github.com/Zion-support/zion-ai-sales-call-analyst) · [Sales Intelligence](https://github.com/Zion-support/zion-ai-sales-intelligence) · [Quote Builder AI](https://github.com/Zion-support/quote-builder-ai) · [SEO Content Optimizer](https://github.com/Zion-support/seo-content-optimizer)
 
-© 2026 Zion Tech Group · https://ziontechgroup.com/
+© 2026 Zion Tech Group
